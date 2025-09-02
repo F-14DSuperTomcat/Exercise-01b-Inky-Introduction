@@ -12,7 +12,7 @@ This exercise will demonstrate the following in the example video:
  
  In the assignment:
  * Add four more knots (and feel free to change any of the example text, this is YOUR story)
- - Add at least one more conditional
+ * Add at least one more conditional
 */
 
 -> cave_mouth
